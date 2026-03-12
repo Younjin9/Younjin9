@@ -20,13 +20,12 @@
 > 데이터 흐름의 안정성과 시스템 완결성을 최우선으로 생각합니다.
 
 - 🎓 **Name:** 방영진 (Bang Youngjin)
-- 🏫 **Education:** 백석대학교 인공지능공학과 졸업 (2025.02)
 - 💼 **Role:** Backend Developer
 - 🌱 **Currently Learning:** Java Spring Framework, Redis, System Architecture
 - 🚀 **Tech Focus:** Java, Python, MySQL, WebSocket, Redis, Kakao API
 - 🏆 **Awards:** 구름 딥다이브 풀스택 우수팀 | 컴퓨터공학부 스마트 IT 경진대회 장려상 (2022, 2024)
 - 🎯 **Career Goal:** 안정적이고 확장 가능한 백엔드 시스템을 설계하는 개발자
-- 📫 **Contact:** qazwsx12098@naver.com
+
 
 <br>
 
