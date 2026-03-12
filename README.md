@@ -1,9 +1,14 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=280&section=header&text=Bang%20Youngjin&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Java%20%26%20Spring%20Specialist&descAlignY=55&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:c9b8e8,100:7c4dcc&height=200&section=header&text=Young%20Jin&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=45)
+<br>
 
-[![Hits](https://hits.seeyoufree.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYounjin9&count_bg=%23667EEA&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://github.com/Younjin9)
-[![GitHub followers](https://img.shields.io/github/followers/Younjin9?label=Followers&style=social)](https://github.com/Younjin9)
+<a href="https://github.com/Younjin9">
+  <img src="https://komarev.com/ghpvc/?username=Younjin9&color=667eea&style=flat-square&label=Visitors" alt="Hits">
+</a>
+<a href="https://github.com/Younjin9">
+  <img src="https://img.shields.io/github/followers/Younjin9?label=Followers&style=social" alt="GitHub followers">
+</a>
 
 </div>
 
@@ -15,6 +20,7 @@
 > 데이터 흐름의 안정성과 시스템 완결성을 최우선으로 생각합니다.
 
 - 🎓 **Name:** 방영진 (Bang Youngjin)
+- 🏫 **Education:** 백석대학교 인공지능공학과 졸업 (2025.02)
 - 💼 **Role:** Backend Developer
 - 🌱 **Currently Learning:** Java Spring Framework, Redis, System Architecture
 - 🚀 **Tech Focus:** Java, Python, MySQL, WebSocket, Redis, Kakao API
@@ -62,8 +68,8 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Younjin9&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Younjin9&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Younjin9&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=667eea&icon_color=764ba2"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Younjin9&layout=compact&hide_border=true&title_color=667eea&langs_count=8"/>
 </div>
 
 <br>
@@ -71,7 +77,7 @@
 ## 🔥 Contribution Streak
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=Younjin9&theme=radical&hide_border=true&background=0D1117&ring=667eea&fire=764ba2&currStreakLabel=764ba2" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=Younjin9&hide_border=true&ring=667eea&fire=764ba2&currStreakLabel=764ba2" alt="GitHub Streak" />
 </div>
 
 <br>
@@ -80,7 +86,7 @@
 
 <div align="center">
 
-[![Younjin9's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Younjin9&theme=react-dark&hide_border=true&bg_color=0D1117&color=667eea&line=764ba2&point=c9d1d9)](https://github.com/Younjin9)
+[![Younjin9's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Younjin9&hide_border=true&bg_color=00000000&color=667eea&line=764ba2&point=764ba2)](https://github.com/Younjin9)
 
 </div>
 
@@ -121,6 +127,16 @@
 
 <br>
 
+## 🏆 Awards & Education
+
+| 연도 | 내용 |
+|---|---|
+| 2025.08 ~ 2026.02 | 구름 딥다이브 풀스택과정 16회차 — **우수팀 선정** 🏆 |
+| 2024.09 ~ 2024.11 | 네트워크 중급(클라우드) — ICT이노베이션스퀘어 |
+| 2024 | 컴퓨터공학부 스마트 IT 경진대회 **장려상** — 백석대학교 |
+| 2022 | 컴퓨터공학부 스마트 IT 경진대회 **장려상** — 백석대학교 |
+| 2021 ~ 2025 | 백석대학교 인공지능공학과 졸업 |
+
 <br>
 
 ## 📫 Contact
@@ -136,7 +152,6 @@
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:c9b8e8,100:7c4dcc&height=120&section=footer)
 
 </div>
-
