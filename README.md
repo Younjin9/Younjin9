@@ -51,6 +51,7 @@
 
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -99,6 +100,7 @@
 |---|---|---|
 | 🤝 **[Aidea](https://github.com/Younjin9/aidea)** | 위치 기반 AI 숏폼 모임 매칭 플랫폼 | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white) |
 | 💻 **[Web IDE](https://github.com/Younjin9/groom_project01)** | 실시간 협업 웹 통합 개발 환경 | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
+| 🌙 **[Sleep App](https://github.com/Younjin9/sleepApp-main)** | 수면 기록 & 루틴 관리 모바일 앱 | ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) |
 
 </div>
 
@@ -126,6 +128,22 @@
 
 <br>
 
+### 🌙 Sleep App — 수면 기록 & 루틴 관리 모바일 앱
+
+> *"매일의 수면 패턴을 기록하고, 루틴과 함께 더 나은 수면 습관을 만드세요."*
+
+- **담당:** React Native 기반 모바일 앱 전체 설계 및 구현
+- **기술:** React Native · Expo 54 · TypeScript · Firebase Auth · Firestore · AsyncStorage
+- **주요 기능:**
+  - 🔐 이메일/Google 로그인 (Firebase Auth)
+  - 😴 수면 기록 추가/조회 및 인사이트 제공
+  - 🔁 날짜별 루틴 관리 및 즐겨찾기
+  - 📊 주간/월간 수면 리포트 분석
+  - 🎨 라이트/다크 모드 지원
+- 🔗 [Repository](https://github.com/Younjin9/sleepApp-main)
+
+<br>
+
 ## 🏆 Awards 
 
 | 연도 | 내용 |
@@ -134,7 +152,6 @@
 | 2024.09 ~ 2024.11 | 네트워크 중급(클라우드) — ICT이노베이션스퀘어 |
 | 2024 | 컴퓨터공학부 스마트 IT 경진대회 **장려상**  |
 | 2022 | 컴퓨터공학부 스마트 IT 경진대회 **장려상**  |
-
 
 <br>
 
